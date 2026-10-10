@@ -513,3 +513,20 @@ Credit for the original demonstration belongs to its creator. Please refer to th
 Microsoft Power Apps, Power Fx, and related product names are trademarks of Microsoft. This is an independent learning project and is not affiliated with or endorsed by Microsoft.
 
 ⭐ Learning goal: Understand delegation deeply enough to design Canvas Apps that return correct results and remain responsive as their data grows.
+
+🙏 Credits and Learning Resources
+This project was created as a hands-on learning exercise to understand delegation in Microsoft Power Apps Canvas Apps.
+
+I followed a Power Apps delegation tutorial by Reza Dorrani and practiced the concepts demonstrated in the video by building and experimenting with two applications:
+
+Employee Record App — created using Microsoft Dataverse, with data imported from an Excel (.xlsx) file.
+Issue Tracking Training App — created using SharePoint as the data source, with data imported from a CSV (.csv) file.
+My learning activities included experimenting with Power Fx formulas, testing filtering and searching behavior, exploring Collect() and ClearCollect(), and studying delegation warnings and data row limits.
+
+Original Learning Resources
+Creator: Reza Dorrani — YouTube Channel
+Tutorial followed: Power Apps Delegation — Video
+Official documentation: Microsoft Power Apps Delegation Overview
+I am grateful to Reza Dorrani for sharing educational content that helped me explore these concepts through practical implementation.
+
+Attribution and disclaimer: This is an independent learning project created for educational purposes. The application experiments, screenshots, and explanations document my own learning based on the referenced tutorial. Credit for the original tutorial belongs to Reza Dorrani. This repository is not affiliated with or endorsed by Reza Dorrani or Microsoft. Third-party content and datasets remain subject to their respective ownership and usage terms.
